@@ -9,6 +9,26 @@
     "bot_token": {
       "description": "El token del bot",
       "value": ""
+    },
+    "usuario_moddle": {
+      "description": "usario de su moddle",
+      "value": ""
+    },
+    "password_moddle": {
+      "description": "contraseña de su moddle"
+      "value": ""
+    },
+    "userid_moddle": {  
+      "description": "El id de la moddle se consigue en pc nadamas.Tiene que dirigirse perfil y le debe salir un cartel que diga resetear página por defecto y en el url le debe salir varios números Usted lo copia y lo pega"
+      "value": ""
+    },
+    "api_id": {
+      "description": "El api id se consigue en my.telegram.org"
+      "value": ""
+    },
+    "api_hash": {
+      "description: "api hash se consigue también en my.telegram.org"
+      "value": ""
     }
   },
   "buildpacks": [
